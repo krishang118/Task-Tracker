@@ -1,6 +1,6 @@
 # Task Tracker
 
-A modern, client-side task tracking and management application built with React, TypeScript, and Vite.
+A client-side task tracking and management application built with React, TypeScript, and Vite.
  
 ## Features
 
