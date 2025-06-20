@@ -25,9 +25,9 @@ A client-side task tracking and management application built with React, TypeScr
 - Node.js (v16 or higher)
 - npm (comes with Node.js)
 
-### Installation
+### How to Run
 
-1. Clone the repository on your local machine.
+1. Clone this repository on your local machine.
 2. Install dependencies:
 ```bash
 npm install
