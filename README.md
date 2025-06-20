@@ -12,7 +12,7 @@ A client-side task tracking and management application built with React, TypeScr
 
 ## Technologies
 
-- React 18
+- React
 - TypeScript
 - JavaScript
 - Vite
