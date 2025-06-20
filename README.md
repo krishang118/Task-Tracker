@@ -14,6 +14,7 @@ A client-side task tracking and management application built with React, TypeScr
 
 - React 18
 - TypeScript
+- JavaScript
 - Vite
 - Tailwind CSS
 
