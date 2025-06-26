@@ -28,7 +28,7 @@ A client-side task tracking and management application built with React, TypeScr
 ### How to Run
 
 1. Clone this repository on your local machine.
-2. Install the dependencies:
+2. Install the required dependencies:
 ```bash
 npm install
 ```
