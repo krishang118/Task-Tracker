@@ -10,7 +10,7 @@ A client-side task tracking and management application built with React, TypeScr
 - Update task priority
 - Modern UI with Tailwind CSS
 
-## Technologies
+## Technologies Used
 
 - React
 - TypeScript
@@ -18,7 +18,7 @@ A client-side task tracking and management application built with React, TypeScr
 - Vite
 - Tailwind CSS
 
-## Getting Started
+## How to Run
 
 ### Prerequisites
 
@@ -28,7 +28,7 @@ A client-side task tracking and management application built with React, TypeScr
 ### How to Run
 
 1. Clone this repository on your local machine.
-2. Install dependencies:
+2. Install the dependencies:
 ```bash
 npm install
 ```
